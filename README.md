@@ -30,6 +30,8 @@
 npm i react-hotkeys-hook
 ```
 
+我稍微改一下
+
 <p align="center">
 A React hook for using keyboard shortcuts in components in a declarative way.
 </p>
